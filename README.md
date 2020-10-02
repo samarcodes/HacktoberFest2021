@@ -6,5 +6,6 @@
 Add, 
 - first "HelloWorld" program in language of your choice
 - programs related to Data Structures and Algorithms
+- basic projects like snakes game, number guessing , todo-list etc
 
 Note : Please organise the folders in which you are contributing 
