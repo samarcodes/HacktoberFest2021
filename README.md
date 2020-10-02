@@ -1,4 +1,4 @@
-![Hacktoberfest2020](https://raw.githubusercontent.com/adityaarakeri/super-scripts/master/hacktoberfest2020.png)
+![Hacktoberfest2020](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 
 # Beginner Friendly Repo for Hacktoberfest2020 
 
