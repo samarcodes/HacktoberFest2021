@@ -1,11 +1,16 @@
-Fidef fibb(n):
-    if n==0 or n==1:
-        return n
-    else:
-        return fibb(n-1)+fibb(n-2)
-
-
-n=int(input("Enter the no. of terms: "))
-print('The fibonaci series is :')
-for i in range(n):
-    print (fibb(i),end=" ")
+def fibonacci(num):
+    num1 = 0
+    num2 = 1
+    series = 0
+    i = 0
+    while i<=num:
+        print(series);
+        num1 = num2;
+        num2 = series;
+        series = num1 + num2;
+        i+= 1
+        
+       
+# Running function after taking user input
+num = int(input('Enter how many numbers needed in Fibonacci series : '))
+fibonacci(num)
